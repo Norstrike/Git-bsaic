@@ -1,2 +1,2 @@
-# Git-bsaic
+# Git-basic
 First basic repository
